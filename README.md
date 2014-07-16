@@ -1,3 +1,3 @@
-kuew-api-explorer
+Kuew Api Explorer
 =================
 TBD
