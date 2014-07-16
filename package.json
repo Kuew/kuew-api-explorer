@@ -1,0 +1,24 @@
+{
+  "name": "kuew-api-explorer",
+  "version": "0.0.1",
+  "description": "RESTful Api explorer based on Swagger for Kuew",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"What choo talkin 'bout Willis?  You don't have a test specified!\" && exit 1 "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Kuew/kuew-api-explorer.git"
+  },
+  "keywords": [
+    "kuew",
+    "swagger",
+    "rest"
+  ],
+  "author": "Brian Bagdasarian <brian@kuewlabs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kuew/kuew-api-explorer/issues"
+  },
+  "homepage": "https://github.com/Kuew/kuew-api-explorer"
+}
